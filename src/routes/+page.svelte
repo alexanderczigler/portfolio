@@ -29,16 +29,16 @@
 
 	a,
 	a:visited {
-		color: #e6e6e9;
+		color: #0b4371;
 		text-decoration: none;
 	}
 
 	a:hover {
-		color: #846dcf;
+		color: #70390b;
 	}
 
 	h1 {
-		color: #e6e6e9;
+		color: #0b4371;
 		font-family: 'Fira Code';
 		font-weight: 100;
 		font-size: 1.5rem;
