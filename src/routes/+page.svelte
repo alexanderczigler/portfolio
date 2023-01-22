@@ -1,7 +1,8 @@
 <script>
 	import GitHub from '../iconoir/GitHub.svelte';
-	import Suitcase from '../iconoir/Suitcase.svelte';
 	import LinkedIn from '../iconoir/LinkedIn.svelte';
+	import Pages from '../iconoir/Pages.svelte';
+	import Suitcase from '../iconoir/Suitcase.svelte';
 </script>
 
 <svelte:head>
@@ -11,8 +12,8 @@
 <h1>Alexander Czigler</h1>
 
 <span>
-	<a href="https://iteam.se" target="_blank" rel="noreferrer">
-		<Suitcase />
+	<a href="https://alexanderczigler.se/alexanderczigler-cv.pdf" target="_blank" rel="noreferrer">
+		<Pages />
 	</a>
 
 	<a href="https://github.com/alexanderczigler" target="_blank" rel="noreferrer">
@@ -21,6 +22,10 @@
 
 	<a href="https://www.linkedin.com/in/alexanderczigler" target="_blank" rel="noreferrer">
 		<LinkedIn />
+	</a>
+
+	<a href="https://iteam.se" target="_blank" rel="noreferrer">
+		<Suitcase />
 	</a>
 </span>
 
