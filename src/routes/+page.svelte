@@ -28,14 +28,17 @@
 	@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300');
 
 	a,
-	a:hover,
 	a:visited {
-		color: #000000;
+		color: #e6e6e9;
 		text-decoration: none;
 	}
 
+	a:hover {
+		color: #846dcf;
+	}
+
 	h1 {
-		color: #252323;
+		color: #e6e6e9;
 		font-family: 'Fira Code';
 		font-weight: 100;
 		font-size: 1.5rem;
