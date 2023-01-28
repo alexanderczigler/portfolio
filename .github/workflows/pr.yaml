@@ -18,7 +18,6 @@ jobs:
         with:
           node-version: 18.x
       - run: |
-          cd web
           npm ci
           npm run lint
           npm run build
