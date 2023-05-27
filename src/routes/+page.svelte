@@ -2,7 +2,6 @@
 	import GitHub from '../iconoir/GitHub.svelte';
 	import LinkedIn from '../iconoir/LinkedIn.svelte';
 	import Pages from '../iconoir/Pages.svelte';
-	import Suitcase from '../iconoir/Suitcase.svelte';
 </script>
 
 <svelte:head>
@@ -22,10 +21,6 @@
 
 	<a href="https://www.linkedin.com/in/alexanderczigler" target="_blank" rel="noreferrer">
 		<LinkedIn />
-	</a>
-
-	<a href="https://iteam.se" target="_blank" rel="noreferrer">
-		<Suitcase />
 	</a>
 </span>
 
