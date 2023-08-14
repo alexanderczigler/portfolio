@@ -12,7 +12,7 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@playwright/test": "^1.30.0",
+		"@playwright/test": "^1.37.0",
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/kit": "^1.15.5",
 		"eslint": "^8.33.0",
