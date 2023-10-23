@@ -11,7 +11,7 @@
 <h1>Alexander Czigler</h1>
 
 <span>
-	<a href="https://alexanderczigler.se/alexanderczigler-cv.pdf" target="_blank" rel="noreferrer">
+	<a href="https://ilix.se/alexanderczigler-cv.pdf" target="_blank" rel="noreferrer">
 		<Pages />
 	</a>
 
@@ -19,7 +19,7 @@
 		<GitHub />
 	</a>
 
-	<a href="https://www.linkedin.com/in/alexanderczigler" target="_blank" rel="noreferrer">
+	<a href="https://www.linkedin.com/in/ilix" target="_blank" rel="noreferrer">
 		<LinkedIn />
 	</a>
 </span>
