@@ -19,7 +19,7 @@
 		<GitHub />
 	</a>
 
-	<a href="https://www.linkedin.com/in/ilix" target="_blank" rel="noreferrer">
+	<a href="https://www.linkedin.com/in/alexanderczigler" target="_blank" rel="noreferrer">
 		<LinkedIn />
 	</a>
 </span>
