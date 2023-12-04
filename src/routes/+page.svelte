@@ -5,7 +5,7 @@
 <h2>Hello</h2>
 <p>
 	I am a self-taught software developer. I began tinkering with HTML in the late 90's and today I am
-	building API:s and working with infrastructure-as-code at one of the major bank in the Nordics.
+	building API:s and working with infrastructure-as-code at one of the major banks in the Nordics.
 </p>
 <p>You can learn more about my professional experience if you click the links below.</p>
 
