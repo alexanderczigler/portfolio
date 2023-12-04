@@ -1,46 +1,27 @@
-<script>
-	import GitHub from '../iconoir/GitHub.svelte';
-	import LinkedIn from '../iconoir/LinkedIn.svelte';
-	import Pages from '../iconoir/Pages.svelte';
-</script>
-
 <svelte:head>
 	<title>Alexander Czigler</title>
 </svelte:head>
 
-<h1>Alexander Czigler</h1>
+<h2>Hello</h2>
+<p>
+	I am a self-taught software developer. I began tinkering with HTML in the late 90's and today I am
+	building API:s and working with infrastructure-as-code at one of the major bank in the Nordics.
+</p>
+<p>You can learn more about my professional experience if you click the links below.</p>
 
-<span>
-	<a href="https://ilix.se/alexanderczigler-cv.pdf" target="_blank" rel="noreferrer">
-		<Pages />
-	</a>
+<p>
+	CV:
+	<a href="https://alexanderczigler.se/alexanderczigler-cv.pdf" target="_blank" rel="noreferrer"
+		>alexanderczigler-cv.pdf</a
+	>
 
+	<br />GitHub:
 	<a href="https://github.com/alexanderczigler" target="_blank" rel="noreferrer">
-		<GitHub />
+		github.com/alexanderczigler
 	</a>
 
-	<a href="https://www.linkedin.com/in/alexanderczigler" target="_blank" rel="noreferrer">
-		<LinkedIn />
-	</a>
-</span>
-
-<style>
-	@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300');
-
-	a,
-	a:visited {
-		color: #0b4371;
-		text-decoration: none;
-	}
-
-	a:hover {
-		color: #70390b;
-	}
-
-	h1 {
-		color: #0b4371;
-		font-family: 'Fira Code';
-		font-weight: 100;
-		font-size: 1.5rem;
-	}
-</style>
+	<br />LinkedIn:
+	<a href="https://www.linkedin.com/in/alexanderczigler" target="_blank" rel="noreferrer"
+		>linkedin.com/in/alexanderczigler</a
+	>
+</p>
